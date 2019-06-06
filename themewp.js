@@ -1,3 +1,3 @@
 function autoClick(){
-document.getElementById('view').click();
+document.getElementById('goto').click();
 }
